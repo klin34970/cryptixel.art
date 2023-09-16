@@ -1,0 +1,11 @@
+//    '0xE47A09AB7D128457E820745B961692073BD7973F' => [
+//        'name' => 'Cyclops #6',
+//        'node' => 'http://127.0.0.1:7545',
+//        'symbol' => 'ETH',
+//        'chainId' => '0x539',
+//        'network' => 'unknown',
+//        'network_name' => 'ganache',
+//        'prize' => [
+//            'amount' => 12,
+//        ]
+//    ],

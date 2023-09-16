@@ -1,0 +1,22 @@
+//    '0xBF85437073BFbf0816459421D5a405dC31b8bb53' => [
+//        'name' => 'Cyclops',
+//        'description' => '
+//            <div>Programmatically generated from a random combination. Each Cyclop is unique, some traits are more common than others.</div>
+//            <div class="mt-1">1 <span class="gradient-text">mysterious</span> unique Cyclop will be <span class="gradient-text">auctioned</span>, the money collected will be <span class="gradient-text">donated</span> to an association.</div>
+//            <div class="mt-1"><span class="gradient-text">20 NFTs giveaways!</span></div>',
+//        'node' => 'https://mainnet.infura.io/v3/774ed2dbc6854de194e80e4e7ae7a433',
+//        'symbol' => 'ETH',
+//        'chainId' => '0x1',
+//        'network' => 'homestead',
+//        'network_name' => 'ethereum',
+//        'prize' => [
+//            'amount' => 15,
+//        ],
+//        'airdrop' => [
+//            '0xBf5142c0d6B3b052eF5a8f9E843ffb77696E7a9B',
+//            '0x9E39aFA96007505e6037C6Aa7f047566EF832c9C',
+//            '0x9C0A1b48fdFF1867e1cCF1c5d6cD34265520722e',
+//            '0x1f38c8bdD9Cb174599574B6c8faDfFD1fd987c85',
+//            '0xE4Af36a905ED82c8e0B7f1d29591Abb229DDA51B'
+//        ]
+//    ],
